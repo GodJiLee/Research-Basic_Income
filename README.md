@@ -1,5 +1,5 @@
 # [mdis_research_about_basic_income](https://github.com/GodJiLee/Research-Basic_Income/blob/main/Data%20Analysis%20for%20Efficient%20Operation%20of%20Basic%20Income%20Resource.pdf)
-서울대학교 사회과학대의 RDC 센터에서 제공한 Microdata를 활용한 프로젝트
+서울대학교 사회과학대의 RDC 센터에서 Microdata를 활용한 프로젝트
 
 **Topic**   
 기본소득의 안정적 운영을 위한 재정 확보의 단계적 시나리오 구상: 사회보장과 탄소세를 대상으로

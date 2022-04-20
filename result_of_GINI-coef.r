@@ -69,7 +69,7 @@ gini.wtd(object_bincome, weights = m$가구원수 * m$가중치.weight.) #0.3089
 
 ###목적세 1단계 이후로 시행했을 때
 bincome_total_step3 = bincome_total_step1 + sum_object #526296.7
-real_dincome_step3 = real_dincome_step1 - object
+real_dincome_step3 = real_dincome_step1 - object 
 equal_bincome_step3 = (real_dincome_step3 + bincome_total_step3)
 
 gini.wtd(equal_dincome, weights = m$가구원수 * m$가중치.weight.) #기존 0.3391352
